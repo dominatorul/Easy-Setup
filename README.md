@@ -2,4 +2,4 @@
 B0rd and Dom cooked🔥
 
 
-Download the source, extract the package into switch/.package/Easy Setup
+Download & instructions:https://github.com/dominatorul/Easy-Setup/releases/tag/Latest
